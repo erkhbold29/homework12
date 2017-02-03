@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app works!';
+   myArrayString: string[] = ['test1', 'test2', 'test3', 'test4'];
 }
